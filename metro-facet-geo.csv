@@ -1,0 +1,24 @@
+row,col,name,code
+1,5,Belcarra,BEL
+1,2,Lions Bay,LB
+1,6,Anmore,AN
+2,1,Bowen Island,BI
+2,3,"North Vancouver, City",NVC
+2,4,"North Vancouver, District",NVD
+2,5,Port Moody,PMY
+2,2,West Vancouver,WV
+3,4,Burnaby,BU
+3,5,Coquitlam,CQ
+3,2,Electoral Area A,EAA
+3,8,Maple Ridge,MR
+3,7,Pitt Meadows,PMW
+3,6,Port Coquitlam,PCQ
+3,3,Vancouver,VAN
+4,7,"Langley, City",LC
+4,8,"Langley, Township",LT
+4,5,New Westminster,NW
+4,3,Richmond,RI
+4,6,Surrey,SU
+4,4,Delta,DE
+5,3,Tsawwassen First Nation,TS
+5,6,White Rock,WR
